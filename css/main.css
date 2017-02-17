@@ -1,0 +1,42 @@
+
+
+/* Universal styles: */
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+/* Element styles: */
+
+.container {
+	margin: 0 auto;
+	display: flex;
+}
+
+
+/* Classes: */
+
+.banner-content {
+	width:100%;
+}
+
+/*Id's: */
+
+#logo {
+	height: 8em;
+	width: 8em;
+
+}
+
+.logo-container {
+	width:30%;
+}
+
+.name {
+	text-align:right;
+	width: 70%;
+}
+
