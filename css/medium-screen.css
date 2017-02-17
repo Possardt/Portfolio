@@ -1,3 +1,11 @@
+hr {
+    width: 700px;
+}
+
 .container {
-	width: 700px;
+    width: 700px;
+}
+
+.portfolio-item {
+    width: 33%;
 }

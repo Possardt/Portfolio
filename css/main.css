@@ -10,14 +10,20 @@
 }
 
 /* Element styles: */
+hr {
+	height: 5px;
+	background-color:grey;
+	margin-bottom:1em;
+}
+
+/* Classes: */
+
 
 .container {
 	margin: 0 auto;
 	display: flex;
+	flex-flow: row wrap;
 }
-
-
-/* Classes: */
 
 .banner-content {
 	width:100%;
@@ -38,5 +44,9 @@
 .name {
 	text-align:right;
 	width: 70%;
+}
+
+.portfolio-item {
+	text-align: center;
 }
 
