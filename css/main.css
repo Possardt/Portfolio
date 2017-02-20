@@ -17,6 +17,10 @@ hr {
 	margin-bottom:1em;
 }
 
+p {
+	word-break: break-all;
+}
+
 /* Classes: */
 
 
@@ -45,6 +49,18 @@ hr {
 .name {
 	text-align:right;
 	width: 70%;
+	vertical-align: middle;
+}
+
+.name h1 {
+	font: 4em 'Raleway', sans-serif;
+	margin-bottom: 0px;
+	margin-top: .5em;
+}
+
+.name span {
+
+	margin: 0;
 }
 
 .portfolio-item {

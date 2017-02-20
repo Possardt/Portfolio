@@ -13,3 +13,17 @@ img {
 .portfolio-item {
     width: 90%;
 }
+
+.portfolio-item img {
+    margin-top:20px;
+    width: 120px;
+    height: 120px;
+}
+
+.name h1 {
+	font: 3.5em 'Raleway', sans-serif;
+}
+
+#logo {
+	margin-top: 2em;
+}
